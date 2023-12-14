@@ -1,8 +1,8 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently Studying
-- 🌱 And learning React 
+- 🔭 I’m currently Studying.
+- 🌱 And learning Javascript.
 - 👀 I’m a self taught Frontend developer
 - 📫 You can reach me at sriharikanna06@gmail.com
 ### Skills
