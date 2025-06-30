@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently Studying.
+- 🔭 Fresh Graduate in MCA!
 - 🌱 And learning Javascript.
 - 👀 I’m a self taught Frontend developer
 - 📫 You can reach me at sriharikanna06@gmail.com
