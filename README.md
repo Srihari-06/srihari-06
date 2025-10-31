@@ -1,8 +1,8 @@
 # 💫 About Me:
-Fresh Graduate form MCA
-Learing new things in Frontend Development 
-Using Ai Developing Applications
-Designing most unique posters
+Fresh Graduate form MCA|
+Learing new things in Frontend Development| 
+Using Ai Developing Applications|
+Designing most unique posters|
 
 
 
